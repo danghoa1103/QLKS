@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\qlks\qlks\obj\Debug\qlks.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\qlks\qlks\obj\Debug\qlks.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\qlks\qlks\bin\Debug\qlks.exe.config
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\qlks\qlks\bin\Debug\qlks.exe
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\qlks\qlks\bin\Debug\qlks.pdb
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\qlks\qlks\obj\Debug\qlks.exe
+C:\Users\NGUYEN DANG HOA\Desktop\1651\code\qlks\qlks\obj\Debug\qlks.pdb
